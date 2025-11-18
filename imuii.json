@@ -1,0 +1,11 @@
+{
+  "name": "lpo",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "lpo",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_7b3a1cfc0b6ca74203129589293810b2d2d2d3267c7a82ff14f5a95756d1937d",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/lpo-eb75dfb0.git"
+}
